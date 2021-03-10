@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="553ec8ca-4024-41d3-9453-2fbf85c99f29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/huolala.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/AnswerNo9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_num = '447025890'/temp/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simfang.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordcloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/wordcloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordcount.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordcount.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pRvyPfFJNJKb48q0GNkkbkZlJM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/huolala_text" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.wordcount">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="huolala" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordcount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="huolala" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordcount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wordcount" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="553ec8ca-4024-41d3-9453-2fbf85c99f29" name="Default Changelist" comment="" />
+      <created>1615158970701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615158970701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
