@@ -46,7 +46,7 @@ wc = wordcloud.WordCloud(
     max_font_size=180,  # 字体最大值
     background_color='white',
     width=640, height=480,
-    scale=0.8,
+    scale=0.6,
     colormap='binary',
 )
 
