@@ -6,4 +6,8 @@ cat单个txt，合并成总的txt  （result.txt)
 (wordcount.py) 利用wordcloud进行答案情感分析
 最终效果如wordcloud.png
 
+#Emotion analysis on 'huolala' event based on answers from Zhihu  
+1.craw sperate answers from Zhihu and concatenate them  
+2.extract key words and synthesize wordcloud  
+
 ![avatar](https://github.com/rev233/huolala/blob/master/wordcloud.png)
